@@ -3,6 +3,8 @@
 - Unlocks 80+ Packs
 - Old Codes Supported
 - Import QRCodes
+![IMG_3346](https://github.com/user-attachments/assets/a357ac51-61fe-4158-a0fe-0244b6e00340)
+![IMG_3347](https://github.com/user-attachments/assets/9af1fbc1-e204-4a57-bf47-e6811a239351)
 
 # What if QR Codes Don’t Work or Are Glitching?
 
