@@ -2,6 +2,7 @@
 
 - Unlocks 80+ Packs
 - Old Codes Supported
+- Import QRCodes
 
 # Disclaimer
 
