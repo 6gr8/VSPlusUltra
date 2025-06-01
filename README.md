@@ -1,7 +1,7 @@
 # VSPlusUltra
 
-– Unlocks 80+ Packs
-– Old Codes Supported
+- Unlocks 80+ Packs
+- Old Codes Supported
 
 # Disclaimer
 
