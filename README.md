@@ -14,7 +14,7 @@
 
 # Disclaimer
 
-This project is provided for educational and archival purposes only. It does not include or distribute any copyrighted material, paid content, or proprietary resources from third-party apps.
+This project is provided strictly for educational and archival purposes. It does not contain or distribute any copyrighted, paid, or proprietary materials from third-party apps.
 
-Use only on devices you own and with content you have legally obtained.
-This tool is not affiliated with or endorsed by Video Star
+Use this tool only on devices you own and with content you have legally obtained.
+This project is not affiliated with or endorsed by Video Star or Frontier Design.
